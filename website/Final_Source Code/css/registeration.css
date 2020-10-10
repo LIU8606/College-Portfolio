@@ -1,0 +1,20 @@
+.register-wrapper .btn-submit{
+  color: #fff;
+  background-color: #379392;
+  padding:5px 18px;
+  font-size: 18px;
+  border-radius:8px;
+}
+
+.register-wrapper .btn-cancel{
+  color: #fff;
+  background-color: #DC143C;
+  padding:5px 18px;
+  font-size: 18px;
+  border-radius:8px;
+}
+
+
+.register-wrapper label {
+  color: #379392;
+}
