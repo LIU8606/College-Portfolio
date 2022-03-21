@@ -4,7 +4,7 @@ app Source Code : https://drive.google.com/file/d/1AAQeRNUvN9fuJZzaKOSg8KDshrUMH
 
 
 
-# 	College Portfolio
+# College Portfolio
 
   
 ## 2017 Machine Learning model of Horoscope (group work) 
@@ -15,7 +15,7 @@ Use machine learning models (KNN, Navie Bayes, Decision Tree...) to analysis the
 運動會報名網站 - 前端的設計到後端的建立，完成了一個基礎的運動會報名網站。
 
 Including frontend, backend and database.
-## 2019 Android application (group work) Android application 
+## 2019 Android application (group work)
 Android 應用程式 - 製作了一個簡易的Android應用程式，讓使用者可以查詢附近的美食。
 
 Design an app can let user find the restaurant easily.
