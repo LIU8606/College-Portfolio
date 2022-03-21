@@ -2,10 +2,6 @@
 
 app Source Code : https://drive.google.com/file/d/1AAQeRNUvN9fuJZzaKOSg8KDshrUMH8v1/view?usp=sharing
 
-
-
-# College Portfolio
-
   
 ## 2017 Machine Learning model of Horoscope (group work) 
 星座模型分析 - 利用多種機器學習模型(KNN, Navie Bayes, Decision Tree...)分析星座性質及準確度的探討。
